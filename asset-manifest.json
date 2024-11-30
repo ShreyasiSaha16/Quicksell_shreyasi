@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Quicksell_shreyasi/static/css/main.659fcac0.css",
+    "main.js": "/Quicksell_shreyasi/static/js/main.6a6c238b.js",
+    "static/js/453.07cc3b4b.chunk.js": "/Quicksell_shreyasi/static/js/453.07cc3b4b.chunk.js",
+    "static/media/Green_sphere.svg.png": "/Quicksell_shreyasi/static/media/Green_sphere.svg.0b1f977cbf3790622bae.png",
+    "static/media/profile.jpeg": "/Quicksell_shreyasi/static/media/profile.377b79d095fefbd9a027.jpeg",
+    "static/media/In progress.png": "/Quicksell_shreyasi/static/media/In progress.6a57a8e2a5bcb322f7ec.png",
+    "static/media/pngwing.com.png": "/Quicksell_shreyasi/static/media/pngwing.com.67e454978b600f7369ea.png",
+    "static/media/PngItem_5284486.png": "/Quicksell_shreyasi/static/media/PngItem_5284486.2c633325fcfcf4c47f70.png",
+    "static/media/cancel-button.png": "/Quicksell_shreyasi/static/media/cancel-button.d47f0e1ad5abb6bff151.png",
+    "index.html": "/Quicksell_shreyasi/index.html",
+    "main.659fcac0.css.map": "/Quicksell_shreyasi/static/css/main.659fcac0.css.map",
+    "main.6a6c238b.js.map": "/Quicksell_shreyasi/static/js/main.6a6c238b.js.map",
+    "453.07cc3b4b.chunk.js.map": "/Quicksell_shreyasi/static/js/453.07cc3b4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.659fcac0.css",
+    "static/js/main.6a6c238b.js"
+  ]
+}
